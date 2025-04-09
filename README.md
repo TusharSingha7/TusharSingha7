@@ -4,7 +4,7 @@ I'm Tushar Singh, a passionate computer engineering 3rd year student at Delhi Te
 # 🚀 What I Do:
 🌐 Web Development: I specialize in React, Next.js, Tailwind CSS, Node.js, and Express.js.
 <br>
-🔧 Tech Stack: C++, C, JavaScript, Typescript, prismaORM , Docker , MongoDB, MySQL,python.
+🔧 Tech Stack: C++, C, JavaScript, Typescript , Docker , MongoDB, MySql,python.
 <br>
 🏆 Competitive Programming: <span style="color:green;">Knight</span> on LeetCode ![]([https://img.shields.io/badge/LeetCode-Knight-blue?logo=leetcode&logoColor=white](https://assets.leetcode.com/static_assets/others/Knight.gif))<br/>
 
