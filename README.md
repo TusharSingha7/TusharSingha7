@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Tushar Singh, a passionate computer engineering 3rd year student at Delhi Technological University (DTU) with a strong interest in software development, competitive programming, and web technologies. I love solving DSA problems, exploring new technologies, and building projects that solve real-world challenges.
+I'm Tushar Singh, a passionate computer engineering 4th year student at Delhi Technological University (DTU) with a strong interest in software development, competitive programming, and web technologies. I love solving DSA problems, exploring new technologies, and building projects that solve real-world challenges.
 - 🌱 I’m currently learning **AI/ML**
 # 🚀 What I Do:
 🌐 Web Development: I specialize in React, Next.js, Tailwind CSS, Node.js, and Express.js.
