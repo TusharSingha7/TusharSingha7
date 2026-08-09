@@ -19,8 +19,8 @@
 
 ### Software Development Intern — Samsung Research Institute Noida
 - Built **On Device Local Privacy First AI Agent**
-- Built **LLM Router ** for cost optimization 
-- Built memory **to persist context across tasks (Graph, long-term, short-term) **
+- Built **LLM Router** for cost optimization 
+- Built memory **to persist context across tasks (Graph, long-term, short-term)**
 - Redesigned **Execution Workflow, tool retreival strategy, Regex Parsing, Prompt Optimization (dynamic propmt)**
 
 ---
@@ -66,10 +66,10 @@
 ---
 
 ## What I Focus On
-- Building **scalable full-stack systems**
--  Designing **efficient ML pipelines**
--  Writing **clean, production-ready code**
--  Shipping **real-world impact products**
+-  Building **scalable full-stack systems**
+-  Designing **efficient AI Systems**
+-  Writing **AI Agents**
+-  Shipping **Intersection of AI and Software**
 
 ---
 
