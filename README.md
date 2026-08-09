@@ -55,16 +55,6 @@
 
 ---
 
-##  Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/rahul--chourasiya"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/me_raul23"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajrahumr01"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
-
----
-
 ## What I Focus On
 -  Building **scalable full-stack systems**
 -  Designing **efficient AI Systems**
